@@ -14,4 +14,4 @@ CLA	     1
 
 [ atoms ]
 ; nr	type	resnr	residu	atom	cgnr	charge	mass
-     1        CLA     25      CLA    CLA      1    -1.000000    35.4500   ; qtot -1.000
+     1        CLA     29      CLA    CLA      1    -1.000000    35.4500   ; qtot -1.000
